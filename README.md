@@ -35,3 +35,9 @@ node scripts/check.mjs
 This checks required template sections and local Markdown links. It does not judge technical accuracy or verify external URLs.
 
 [See a completed API documentation sample](https://emminextechdocs.com/samples/relayline-api) · [Discuss documentation work](https://emminextechdocs.com/contact)
+
+## License
+
+This repository's original code, documentation, and templates are available under the [MIT License](LICENSE). You may use, modify, and redistribute them, including commercially, provided you retain the copyright and license notice.
+
+This license does not grant trademark rights to the Emminex Techdocs name or logo, or license content on linked websites. Third-party material retains its own license.
